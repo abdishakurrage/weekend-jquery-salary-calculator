@@ -4,24 +4,12 @@ Salary calculator
 phase 1: set up project 
 -html/jsc/ss files 
 -import JQ
--handshakes x
-
 
 Phase 2: interface
--input fields 
 -submit button 
--button click handled
--output div w/ stub data
 
 Phase 3: functionality
-
 -get input 
--add employee to array
--clear input fields
--calculate monthly costs
--put employee on DOM
--put total monthly on the DOM 
--red if > 20G
 -get stuff on DOM
 -working delete button
 

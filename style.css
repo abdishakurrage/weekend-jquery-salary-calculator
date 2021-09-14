@@ -1,8 +1,5 @@
 body{
-    font-family: 'Courier New', Courier, monospace;
-}
-
-
-.expensive{
-    background-color: red;
+    text-align: center;
+    background: salmon;
+    padding: auto;
 }
